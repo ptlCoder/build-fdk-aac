@@ -1,0 +1,11 @@
+libSYS/src/wav_file.lo: \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSYS/src/wav_file.cpp \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSYS/include/wav_file.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSYS/include/genericStds.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSYS/include/machine_type.h
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSYS/include/wav_file.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSYS/include/genericStds.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSYS/include/machine_type.h:

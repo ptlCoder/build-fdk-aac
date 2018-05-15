@@ -1,0 +1,50 @@
+libFDK/src/autocorr2nd.lo: \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/src/autocorr2nd.cpp \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/autocorr2nd.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/common_fix.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/FDK_archdef.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSYS/include/machine_type.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/fixmul.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/aarch64/fixmul_aarch64.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/abs.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/clz.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/aarch64/clz_aarch64.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/fixmadd.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/fixminmax.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/cplx_mul.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/scale.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSYS/include/genericStds.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/../src/scale.cpp \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/fixpoint_math.h
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/autocorr2nd.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/common_fix.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/FDK_archdef.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSYS/include/machine_type.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/fixmul.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/aarch64/fixmul_aarch64.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/abs.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/clz.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/aarch64/clz_aarch64.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/fixmadd.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/fixminmax.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/cplx_mul.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/scale.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSYS/include/genericStds.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/../src/scale.cpp:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/fixpoint_math.h:

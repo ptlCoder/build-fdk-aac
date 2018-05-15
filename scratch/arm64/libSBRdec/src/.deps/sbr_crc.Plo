@@ -1,0 +1,89 @@
+libSBRdec/src/sbr_crc.lo: \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSBRdec/src/sbr_crc.cpp \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSBRdec/src/sbr_crc.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSBRdec/include/sbrdecoder.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/common_fix.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/FDK_archdef.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSYS/include/machine_type.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/fixmul.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/aarch64/fixmul_aarch64.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/abs.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/clz.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/aarch64/clz_aarch64.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/fixmadd.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/fixminmax.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/cplx_mul.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/scale.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSYS/include/genericStds.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/../src/scale.cpp \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/fixpoint_math.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/FDK_bitstream.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/FDK_bitbuffer.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSYS/include/FDK_audio.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSBRdec/src/transcendent.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSBRdec/src/sbr_rom.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSBRdec/src/env_extr.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSBRdec/src/lpp_tran.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/qmf.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/FDK_tools_rom.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/dct.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSBRdec/src/psdec.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSBRdec/src/psdec_hybrid.h
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSBRdec/src/sbr_crc.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSBRdec/include/sbrdecoder.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/common_fix.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/FDK_archdef.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSYS/include/machine_type.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/fixmul.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/aarch64/fixmul_aarch64.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/abs.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/clz.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/aarch64/clz_aarch64.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/fixmadd.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/fixminmax.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/cplx_mul.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/scale.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSYS/include/genericStds.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/../src/scale.cpp:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/fixpoint_math.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/FDK_bitstream.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/FDK_bitbuffer.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSYS/include/FDK_audio.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSBRdec/src/transcendent.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSBRdec/src/sbr_rom.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSBRdec/src/env_extr.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSBRdec/src/lpp_tran.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/qmf.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/FDK_tools_rom.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/dct.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSBRdec/src/psdec.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSBRdec/src/psdec_hybrid.h:

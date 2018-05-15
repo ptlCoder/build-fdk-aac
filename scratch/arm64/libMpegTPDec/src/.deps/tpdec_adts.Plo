@@ -1,0 +1,29 @@
+libMpegTPDec/src/tpdec_adts.lo: \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libMpegTPDec/src/tpdec_adts.cpp \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libMpegTPDec/src/tpdec_adts.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libMpegTPDec/include/tpdec_lib.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libMpegTPDec/include/tp_data.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSYS/include/machine_type.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSYS/include/FDK_audio.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSYS/include/genericStds.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/FDK_bitstream.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/FDK_bitbuffer.h \
+  /Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/FDK_crc.h
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libMpegTPDec/src/tpdec_adts.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libMpegTPDec/include/tpdec_lib.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libMpegTPDec/include/tp_data.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSYS/include/machine_type.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSYS/include/FDK_audio.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libSYS/include/genericStds.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/FDK_bitstream.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/FDK_bitbuffer.h:
+
+/Users/soliloquy/Desktop/test-FFmpeg/fdk-aac/fdk-aac-0.1.6/libFDK/include/FDK_crc.h:
